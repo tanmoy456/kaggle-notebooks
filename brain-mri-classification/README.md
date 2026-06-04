@@ -1,3 +1,8 @@
+DATASET LINK:
+
+<https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection>
+
+
 ## Brain MRI Classification (Tumor vs No Tumor)
 
 A computer vision project for binary brain MRI classification using PyTorch and transfer learning (ResNet18), with leakage-safe data splitting.
