@@ -9,11 +9,9 @@ SQL practice using the Netflix Movies & TV Shows dataset — imported into a loc
 | Detail | Info |
 |--------|------|
 | **Name** | Netflix Movies and TV Shows |
-| **Author** | Shivam Bansal |
 | **Source** | [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) |
 | **License** | CC0 — Public Domain |
 | **Records** | 8,807 titles (Movies & TV Shows) |
-| **As of** | Mid-2021 |
 
 The dataset contains listings of all movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, country, genre categories, and descriptions.
 
